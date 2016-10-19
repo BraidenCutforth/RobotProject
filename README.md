@@ -1,6 +1,6 @@
 # Robot Project - Written in RobotC
   
-  Here is code that was written throughout the Robot project undertaken in ENGR 120 at the University of Victoria. Milestones 1, 2 and 3 are tests performed to make sure that motors and sensors were working as they were supposed to. Milestone 4 was the final milestone, and the code written there was used to complete the final task (described below) for this project.
+  Here is code that was written throughout the Robot project undertaken in ENGR 120 at the University of Victoria. Milestones 2 and 3 are tests performed to make sure that motors and sensors were working as they were supposed to. Milestone 4 was the final milestone, and the code written there was used to complete the final task (described below) for this project.
 
 # TASK
 
